@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+ 
+}
+.day {
+  position: absolute;  
+  background-color: rgb(4, 8, 17);
+
+ 
+}
+canvas {
+  position: relative;
+  display: flex;
+
+}
